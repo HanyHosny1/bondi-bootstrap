@@ -1,0 +1,8 @@
+Bootstrap (ELZERO) youtube
+
+https://www.youtube.com/watch?v=9mdGUKFu5OQ&list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ
+
+Bootstrap REquirements
+
+Framework / toolkit...
+Gives you the tools which are already done and you have to write and copy it's code at your html
